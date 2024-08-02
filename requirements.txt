@@ -1,0 +1,7 @@
+requests
+termcolor
+pyfiglet
+prettytable
+socket
+random
+threading
